@@ -1,3 +1,6 @@
+<img width="861" alt="retro barcode generator" src="https://user-images.githubusercontent.com/29441324/31867037-229f8e54-b73d-11e7-9903-3fb38b819fe7.png">
+
+
 # RetroBarcode
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
